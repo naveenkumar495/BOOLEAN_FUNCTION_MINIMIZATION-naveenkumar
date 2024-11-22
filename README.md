@@ -77,9 +77,13 @@ endmodule
 Developed by: RegisterNumber:24900580
 
 
-**RTL realization**
+**RTL realization** 
+
+![Screenshot 2024-11-22 142532](https://github.com/user-attachments/assets/a5537802-a126-4824-9c8f-c6c4e17dbcff)
+
 
 **Output:**
+![Screenshot 2024-11-22 144245](https://github.com/user-attachments/assets/790912fa-2475-446d-bb78-fde5c4a91808)
 
 **RTL**
 
