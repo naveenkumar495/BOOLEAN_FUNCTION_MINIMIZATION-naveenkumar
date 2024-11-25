@@ -22,7 +22,8 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Theory**
 
-**Logic Diagram**
+Logic function is implemented using Verilog, a hardware description language used model electronic systems. Verilog enables the design and simulation of digital circu efficiently. Quartus software is utilized to compile, synthesize, and verify the logic function through simulation. This process ensures the functionality aligns with the expected behavior of the logic design
+
 
 **Procedure**
 
